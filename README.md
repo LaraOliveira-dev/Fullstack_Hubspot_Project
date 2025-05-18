@@ -53,8 +53,8 @@ const connectDB = async () => {
 
 #Arquivos gerados pela análise de dados:
 
--[Arquivo Csv](./backend/scripts/data.csv)
+-[Arquivo Csv]([./backend/scripts/data.csv](https://github.com/LaraOliveira-dev/Fullstack_Hubspot_Project/blob/e941972aded0bc472605b9a273b5bc7371593969/frontbackhubspot/backend/scripts/data.csv))
 
--[Arquivo Json](./backend/scripts/data.json)
+-[Arquivo Json]([./backend/scripts/data.json](https://github.com/LaraOliveira-dev/Fullstack_Hubspot_Project/blob/e941972aded0bc472605b9a273b5bc7371593969/frontbackhubspot/backend/scripts/data.json))
 
-![Gráfico de Barras](./backend/scripts/creation_dates_histogram.png)
+![Gráfico de Barras]([./backend/scripts/creation_dates_histogram.png](https://github.com/LaraOliveira-dev/Fullstack_Hubspot_Project/blob/e941972aded0bc472605b9a273b5bc7371593969/frontbackhubspot/backend/scripts/creation_dates_histogram.png))
